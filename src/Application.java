@@ -1,5 +1,6 @@
 /**
  * Application for Hotel data formatter
+ * @author Suleyman Uslu
  */
 public class Application {
 
