@@ -4,7 +4,7 @@
  */
 public class Application {
 
-    // application-wise log level
+    // application-wide log level
     static LogLevel logLevel = LogLevel.DEBUG;
 
     public static void main(String[] args) {
