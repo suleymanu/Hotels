@@ -13,7 +13,7 @@ import java.util.Date;
  */
 public class Logger {
 
-    private static String logFile = "hotels.log";
+    private static String logFile = "res/hotels.log";
 
     /**
      * Prints log to log file

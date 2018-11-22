@@ -10,9 +10,9 @@ public class Application {
     public static void main(String[] args) {
 
         HotelDataFormatter hotelDataFormatter = new HotelDataFormatter();
-        hotelDataFormatter.readCSVFile("hotels.csv");
+        hotelDataFormatter.readCSVFile("res/hotels.csv");
         hotelDataFormatter.sort();
-        hotelDataFormatter.printHotelsAsXML("hotels.xml");
-        hotelDataFormatter.printHotelsAsJSON("hotels.json");
+        hotelDataFormatter.printHotelsAsXML("res/hotels.xml");
+        hotelDataFormatter.printHotelsAsJSON("res/hotels.json");
     }
 }
