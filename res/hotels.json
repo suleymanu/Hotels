@@ -1,0 +1,14 @@
+{
+	"hotels": {
+		"hotel": [
+			{
+				"name": "The Apple Hotel",
+				"address": "1 Infinite Loop, CA",
+				"contact": "Steve Jobs",
+				"phone": "1-333-444-0-333",
+				"uri": "http://hotels.apple.com/hotel",
+				"stars": "5"
+			}
+		]
+	}
+}

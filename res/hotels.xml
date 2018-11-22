@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotels>
+	<hotel>
+		<name>The Apple Hotel</name>
+		<address>1 Infinite Loop, CA</address>
+		<contact>Steve Jobs</contact>
+		<phone>1-333-444-0-333</phone>
+		<uri>http://hotels.apple.com/hotel</uri>
+		<stars>5</stars>
+	</hotel>
+</hotels>
